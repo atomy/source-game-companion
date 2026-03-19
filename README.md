@@ -1,8 +1,8 @@
-# Overview
+# Source Game Companion
 
-Application that connects to your source-1 game instance (Team Fortress 2, mods like Dystopia, Empires etc.) and shows all players currently on the server where you are on, providing additional intelligence information.
+Source Game Companion connects to your Source-1 game instance (Team Fortress 2, mods like Dystopia, Empires, etc.) and shows all players currently on your server, providing additional intelligence information.
 
-![Current Players – overview with player list, stats and log](doc/2026-02-17_21-11.png)
+![Source Game Companion overview with player list, stats, and log](doc/2026-02-17_21-11.png)
 
 ## Features
 - Show all players from current TF2-Session
