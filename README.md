@@ -13,7 +13,7 @@ Support ratings:
 | App ID | Game | Support | Notes |
 | --- | --- | --- | --- |
 | 440 | Team Fortress 2 | `🟢 Excellent` | player parsing working, special tf2 features are working |
-| 17580 | Dystopia | `🟡 Good` | general player parsing working, additional dystopia-stats-support, chat-parsing N/A, frag-parsing N/A |
+| 17580 | Dystopia | `🟢 Excellent` | player parsing working, additional dystopia-stats-support, chat-parsing works, frag-parsing works |
 | 17740 | Empires | `🟡 Good` | general player parsing working, chat-parsing N/A, frag-parsing works |
 | 240 | Counter-Strike: Source | `🟡 Good` | general player parsing working, chat-parsing N/A, frag-parsing works |
 | 4000 | Garry's Mod | `🟡 Good` | general player parsing working, chat-parsing N/A |
